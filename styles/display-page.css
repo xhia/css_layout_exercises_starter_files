@@ -1,0 +1,49 @@
+main {
+    font-size: 0;
+}
+
+.outbox {
+    padding-top: 100px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.green {
+    background-color: green;
+}
+
+.black {
+    background-color: black;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.first-line {
+    width: 50%;
+    height: 200px;
+}
+
+.border {
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.second-line {
+    width: 33.33%;
+    height: 300px;
+}
+
+.center {
+    text-align: center;
+}
